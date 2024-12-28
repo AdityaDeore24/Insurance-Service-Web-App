@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/PolicyDetails.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/addPolicy.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/addPolicyHolder.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/agentDashboard.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/agentHome.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/agentLogin.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/agentRegister.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/successfulRegister.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/updateDueDate.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/updateEmailPassword.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/userDetails.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/viewAllPolicyHolder.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/viewExpiredPolicy.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/viewNearbyExpiries.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/viewPolicy.jsp=UTF-8
